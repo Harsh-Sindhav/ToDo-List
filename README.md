@@ -1,2 +1,2 @@
 # To-do-List-coding-ninjas-
-Coding ninjas course project using Node.js
+A project by Harsh Sindhav using Node.js, ExpressJS and MongoDB.
